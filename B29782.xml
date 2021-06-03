@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short historical collection touching the succession to the crown</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29782</idno><idno type="EEBO-CITATION">27966783</idno>
+  <idno type="VID">205797</idno>
+  <idno type="EEBO-PROQUEST">2240895664</idno>
+  
+            <idno type="STC">Wing S3596</idno>
+            <idno type="OCLC">27966783</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1732:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short historical collection touching the succession to the crown</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession.</term>
+               <term type="geographic_name">Great Britain --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205797:1"/>
+            <head>A short Historical COLLECTION, Touching the <hi>Succession of the Crown.</hi>
+            </head>
+            <p>VVHether the History of the Succession of the Crown will al<g ref="char:EOLhyphen"/>low so good and clear an Hereditary Right, <hi>Jure Humane,</hi> the Reader will best judge by the short Historical Collection touching the Succession hereto subjoyned.</p>
+            <p>In the Heptarchy there was no fixt Hereditary Right, one King tripping up the heels of another, as he had Power, till one got all.</p>
+            <p>After no fixt Hereditary Right, for <hi>Athelstan</hi> the Great King was a Bastard, and so were several others, who by their Courage and Policy got the Crown; so that a Law was made under the <hi>Saxon</hi> Monarchy <hi>De Or<g ref="char:EOLhyphen"/>dinatione Regum,</hi> that directed the Election of Kings, prohibiting Bastards to be Elected.</p>
+            <p>
+               <hi>Edward</hi> the Confessor was not King <hi>Jure H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reditario.</hi>
+            </p>
+            <p>
+               <hi>William</hi> the First, called the Conquerour, had no Right but from the Peoples Election.</p>
+            <p>
+               <hi>William Rusus</hi> was Elected against the Right of his Elder Brother.</p>
+            <p>
+               <hi>Henry</hi> the first came in by the same way.</p>
+            <p>King <hi>Stephen</hi> was Elected <hi>à Clero &amp; Populo,</hi> and confirmed by the Pope.</p>
+            <p>
+               <hi>Henry</hi> the Second came in by Consent, yet he had no Hereditary Right, for his Mother was living.</p>
+            <p>
+               <hi>Richard</hi> the First was charged before God and Man by the Archbishop upon his Coronation, that he should not presume to take the Crown, unless he resolved faithfully to observe the Laws.</p>
+            <p>King <hi>John</hi> his Brother, because his Elder Brother's Son was a Foreigner, was Elected <hi>à Clero &amp; Popul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and being divorced from his Wife, by his new Queen, had <hi>Henry</hi> the Third.</p>
+            <p>
+               <hi>Henry</hi> the Third was confirmed and settled in the Kingdom by the gene<g ref="char:EOLhyphen"/>ral Election of the People, and in his life-time the Nation was Sworn to the Succession of <hi>Edward</hi> the First, before he went to the Holy-Land.</p>
+            <p>
+               <hi>Edward</hi> the First, being out of <hi>England,</hi> by the Consent of Lords and Commons, was declared King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Edward</hi> the Second, being mislead, and relying too much upon his Fa<g ref="char:EOLhyphen"/>vourites, was deposed, and his Son was declared King in his life-time.</p>
+            <p>
+               <hi>Richard</hi> the Second for his Evil Government, had the fate of the Second <hi>Edward.</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> the Fourth came in by Election of the People, to whom suceeded <hi>Henry</hi> the Fifth, and <hi>Henry</hi> the Sixth, in whose time <hi>Richard</hi> Duke of <hi>York</hi> claimed the Crown, and an Act of Parliament was made, That <hi>Henry</hi> the Sixth should enjoy the Crown for his life, and the said Duke after him;
+<pb n="2" facs="tcp:205797:2"/> after which King <hi>Henry</hi> raised an Army by Assistance of Queen and Prince, and at <hi>Wakefield</hi> in Battel kills the Duke, for which in Parliament, 1 <hi>Ed. 4th.</hi> they were all by Act of Parliament attainted of Treason, and one principal Reason thereof was, for that the Duke being declar'd Heir to the Crown after <hi>Henry,</hi> by Act of Parliament, they had killed him.</p>
+            <p>
+               <hi>Edward</hi> the Fourth enters the Stage, and leaves <hi>Edward</hi> the Fifth to suc<g ref="char:EOLhyphen"/>ceed, to whom succeds <hi>Richard</hi> the Third, confirm'd King by Act of Par<g ref="char:EOLhyphen"/>liament, upon two Reasons: First, That by reason of a Pre-contract of <hi>Ed.</hi> the Fourth, <hi>Ed.</hi> the Fifth his Eldest Son, and all his other Children were Bastards. Secondly, For that the Son of the Duke of <hi>Clarence,</hi> Second Bro<g ref="char:EOLhyphen"/>ther to <hi>Edward</hi> the Fourth had no Right, because the Duke was attainted of Treason by a Parliament of <hi>Edward</hi> the Fourth.</p>
+            <p>
+               <hi>Henry</hi> the Seventh comes in, but had no Title▪ First, because <hi>Edward</hi> the Fourth's Daughter was then living. Secondly, His own Mother, the Coun<g ref="char:EOLhyphen"/>tess of <hi>Richmond,</hi> was then living.</p>
+            <p>After him <hi>Henry</hi> the Eighth wore the Crown, who could have no Title by the Father. In his time the Succession of the Crown was limited three several times, and the whole Nation Sworn to the Observance.</p>
+            <p>
+               <hi>Sir</hi> Thomas Moor <hi>declared that the Parliament had a Power to bind the Succession, and would subscribe thereto.</hi>
+            </p>
+            <p>
+               <hi>Edward</hi> the Sixth suceeded, but his Mother was married to King <hi>Henry,</hi> while <hi>Katherine</hi> of <hi>Spain</hi> his Wife was living.</p>
+            <p>Queen <hi>Mary</hi> was declared a Bastard, and by virtue of an Act of Par<g ref="char:EOLhyphen"/>liament of <hi>Henry</hi> the VIII. she succeeded; which Act being repealed in the first of her Reign, and the Crown being limited otherwise by Parliament; all the Limitations of the Crown in <hi>Henry</hi> the Eighth's Reign were avoid<g ref="char:EOLhyphen"/>ed; so that.</p>
+            <p>Queen <hi>Elizabeth</hi> who was declared a Bastard by Act of Parliament in <hi>Henry</hi> the Eighth's time, and limited to suceed in another Act in his time, and that Act repealed by Queen <hi>Mary,</hi> became Queen in the force of her own Act of Parliament, which declared her Lawful Queen.</p>
+            <p>The Crown was ential'd in <hi>Richard</hi> the Second's time, again in the time of <hi>Henry</hi> the Fourth, again in the time of <hi>Henry</hi> the Sixth, again in the time of <hi>Edward</hi> the Fourth, again in the time of <hi>Richard</hi> the Third, again in the time of <hi>Henry</hi> the Seventh; thrice in the time of <hi>Henry</hi> the Eighth.</p>
+            <p>And upon the Marriage of Queen <hi>Mary</hi> to King <hi>Philip</hi> of <hi>Spain,</hi> both the Crowns of <hi>England</hi> and <hi>Spain</hi> were entail'd, whereby it was provided, that of the several Children to he begotten upon the Queen; one was to have the Crown of <hi>England,</hi> another <hi>Spain,</hi> another the <hi>Low-Countries;</hi> the Articles of Marriage to this purpose were confirmed by Act of Parliament▪ and the Pope's Bull.</p>
+            <p>So that it was agreed by the States of both Kingdoms, and the <hi>Low Co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tries,</hi> and therefore probably the Universal Opinion of the great Men of that Age, That Kings and Soveraign Princes, with the Consent of their States, had a Power to alter and bind the Succession of the Crown.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
